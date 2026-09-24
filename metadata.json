@@ -1,0 +1,6 @@
+{
+  "name": "Bumper Tanks 3D - Arcade Battle Arena",
+  "description": "Fast-paced 3D bumper tanks arcade arena with single player VS AI and local 2-player split-screen combat, bouncing shells, power-ups, and interactive hazards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
